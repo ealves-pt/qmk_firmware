@@ -18,6 +18,9 @@ MOUSEKEY_ENABLE  = yes
 # Audio & System Controls
 EXTRAKEY_ENABLE  = yes
 
+# Better RGB experience
+RGB_MATRIX_ENABLE = yes
+
 # Extra stuff
 LEADER_ENABLE      = no # https://docs.qmk.fm/#/feature_leader_key
 SPACE_CADET_ENABLE = no # https://docs.qmk.fm/#/feature_space_cadet
